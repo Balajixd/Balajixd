@@ -33,6 +33,9 @@
     <a href="mailto:brbalaji456@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
+    <a href="https://69b0251eb66e1400b45d5ecf--balajibr-portfolio.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" />
+    </a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=Balajixd&style=flat-square&color=blue" alt="Profile Visit"/>
@@ -93,10 +96,7 @@
 | 🔭 | Building intelligent web apps |
 | 🤝 | Open to collaborations & internships |
 | 📧 | brbalaji456@gmail.com |
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+| 🌐 | [View Portfolio](https://69b0251eb66e1400b45d5ecf--balajibr-portfolio.netlify.app/) |
 
 <br/>
 
@@ -327,6 +327,7 @@
 ## ❤️ Support Me
 
 <p align="center">
+  <a href="https://buymeacoffee.com">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>

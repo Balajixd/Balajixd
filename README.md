@@ -18,12 +18,11 @@
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:brbalaji456@gmail.com"><img src="https://img.shields.io/badge/📧_brbalaji456@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI/ML_+_Web)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎯_Oracle_Certified_Professional-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎯_Oracle_Certified-1e1e2e?style=for-the-badge" />
   </p>
 
   <h3>🌐 Socials</h3>
-
   <p align="left">
     <a href="https://github.com/Balajixd">
       <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
@@ -78,11 +77,41 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Balaji+B.R.!;🎓+MSc+Software+Systems;📍+Erode%2C+Tamil+Nadu%2C+India;💡+CGPA%3A+7.21;💼+AI-Driven+Full+Stack+Developer;🏅+3×+Oracle+Global+Certified;🥇+2×+First+Prize+Winner;🔭+Building+Intelligent+Web+Apps;🤝+Open+to+Collaborations+%26+Internships;📧+brbalaji456%40gmail.com" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&text=Who%20Am%20I%3F&fontSize=24&fontColor=fff&animation=fadeIn" />
+
+<br/>
+
+| | |
+|---|---|
+| 🧑‍💻 | **Balaji B.R.** |
+| 🎓 | MSc Software Systems — Kongu Engineering College |
+| 📍 | Erode, Tamil Nadu, India 🇮🇳 |
+| 📊 | CGPA: 7.21 |
+| 💼 | AI-Driven Full Stack Developer |
+| 🏅 | 3× Oracle Global Certified Professional |
+| 🥇 | 2× First Prize Winner |
+| 🔭 | Building intelligent web apps |
+| 🤝 | Open to collaborations & internships |
+| 📧 | brbalaji456@gmail.com |
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-Advanced-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-Intermediate-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-Intermediate-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle_APEX-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap_5-Advanced-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=600&lines=Python+%7C+TensorFlow+%7C+Keras+%7C+Deep+Learning;React+%7C+Node.js+%7C+Express+%7C+MongoDB;HTML5+%7C+CSS3+%7C+Bootstrap+5+%7C+JavaScript;Oracle+APEX+%7C+Google+Colab+%7C+GitHub" alt="Skills Typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />
 
 </div>
 
@@ -92,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=750&lines=🥇+First+Prize+—+UI%2FUX+Design+%40+Mark-US+2k25;🥇+First+Prize+—+Photography+Hunt+%40+KPR+College;🥈+Second+Prize+—+Project+Presentation+%40+Kongu+EC;🥉+Third+Prize+—+Code-a-thon+%40+KPR+Engineering+College;⚡+One+Day+Hackathon+2025+%40+Kongu+EC;🌐+Smart+India+Hackathon+%40+Kongu+EC" alt="Achievements Typing" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,9,2&height=40&text=🏆%20Hall%20of%20Fame&fontSize=18&fontColor=fff" />
 
 <br/><br/>
 
@@ -104,7 +133,7 @@
 <br/><br/>
 <b>UI/UX Design</b>
 <br/>
-<img src="https://img.shields.io/badge/Mark--US_2k25-Kongu_Engineering_College-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Mark--US_2k25-Kongu_EC-orange?style=flat-square" />
 <br/><br/>
 </td>
 <td align="center" width="33%">
@@ -142,7 +171,7 @@
 <br/><br/>
 <b>One Day Hackathon 2025</b>
 <br/>
-<img src="https://img.shields.io/badge/Kongu-Engineering_College-00C4CC?style=flat-square" />
+<img src="https://img.shields.io/badge/Kongu-Engineering_College-cyan?style=flat-square" />
 <br/><br/>
 </td>
 <td align="center" width="33%">
@@ -151,7 +180,7 @@
 <br/><br/>
 <b>Smart India Hackathon</b>
 <br/>
-<img src="https://img.shields.io/badge/Kongu-Engineering_College-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/Kongu-Engineering_College-purple?style=flat-square" />
 <br/><br/>
 </td>
 </tr>
@@ -165,11 +194,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=F80000&center=true&vCenter=true&width=700&lines=🔴+Oracle+Java+Foundation+Certified+✅;🔴+Oracle+APEX+Cloud+Developer+Professional+✅;🔴+Oracle+AI+Vector+Search+Professional+✅;🟢+Functions+%26+Memory+in+C+—+Pointers+%26+Arrays+✅;🟢+Advanced+Topics+in+C+—+File+Handling+✅" alt="Certifications Typing" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3&height=40&text=🔴%20Oracle%20Global%20Certifications&fontSize=16&fontColor=fff" />
 
 <br/><br/>
-
-### 🔴 Oracle Global Certifications
 
 <table>
 <tr>
@@ -179,8 +206,7 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/Java-Foundation-F80000?style=flat-square&logo=oracle&logoColor=white" />
 <br/><br/>
-<sub>🏛️ Oracle University</sub><br/>
-<sub>✅ Global Certification</sub>
+<sub>🏛️ Oracle University &nbsp;✅ Global</sub>
 <br/><br/>
 </td>
 <td align="center" width="33%">
@@ -189,8 +215,7 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/APEX-Cloud_Developer-F80000?style=flat-square&logo=oracle&logoColor=white" />
 <br/><br/>
-<sub>🏛️ Oracle University</sub><br/>
-<sub>✅ Global Certification</sub>
+<sub>🏛️ Oracle University &nbsp;✅ Global</sub>
 <br/><br/>
 </td>
 <td align="center" width="33%">
@@ -199,8 +224,7 @@
 <br/><br/>
 <img src="https://img.shields.io/badge/AI_Vector-Search_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
 <br/><br/>
-<sub>🏛️ Oracle University</sub><br/>
-<sub>✅ Global Certification</sub>
+<sub>🏛️ Oracle University &nbsp;✅ Global</sub>
 <br/><br/>
 </td>
 </tr>
@@ -208,7 +232,9 @@
 
 <br/>
 
-### 🔵 Programming Certifications
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=17,18,19&height=40&text=🔵%20Programming%20Certifications&fontSize=16&fontColor=fff" />
+
+<br/><br/>
 
 <table>
 <tr>
@@ -241,7 +267,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=10B981&center=true&vCenter=true&width=700&lines=🍱+Smart+Food+Recommender+System;⌚+Wrist+Art+—+Full+Stack+E-Commerce;🍰+Pastry+Management+Web+App;📚+Borrow+Box+—+Book+Rental+Platform" alt="Projects Typing" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=4,5,6&height=40&text=🚀%20Featured%20Projects&fontSize=16&fontColor=fff" />
 
 <br/><br/>
 
@@ -249,7 +275,7 @@
 <tr>
 <td align="center" width="50%">
 <br/>
-<img src="https://img.shields.io/badge/Smart_Food-Recommender_System-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🍱_Smart_Food-Recommender_System-FF6F00?style=for-the-badge" />
 <br/><br/>
 <p align="left">Deep learning model for personalized diet recommendations with <strong>top 10 food suggestions</strong> using Indian food nutrition dataset.</p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -259,7 +285,7 @@
 </td>
 <td align="center" width="50%">
 <br/>
-<img src="https://img.shields.io/badge/Wrist_Art-Full_Stack_E--Commerce-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⌚_Wrist_Art-Full_Stack_E--Commerce-7C3AED?style=for-the-badge" />
 <br/><br/>
 <p align="left">Online watch store with <strong>cart, product feed</strong> and responsive UI built on the MERN stack.</p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
@@ -272,7 +298,7 @@
 <tr>
 <td align="center" width="50%">
 <br/>
-<img src="https://img.shields.io/badge/Pastry-Management_Web_App-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🍰_Pastry-Management_Web_App-F97316?style=for-the-badge" />
 <br/><br/>
 <p align="left">Order management and <strong>customer tracking system</strong> for a pastry business with responsive design.</p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -283,7 +309,7 @@
 </td>
 <td align="center" width="50%">
 <br/>
-<img src="https://img.shields.io/badge/Borrow_Box-Book_Rental_Platform-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📚_Borrow_Box-Book_Rental_Platform-10B981?style=for-the-badge" />
 <br/><br/>
 <p align="left">Book rental platform with <strong>secure payments, return tracking</strong> and affordable rental options.</p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -305,3 +331,5 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" />

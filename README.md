@@ -163,92 +163,137 @@
 </div>
 
 ---
-
 ## 📜 Certifications
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=F80000&center=true&vCenter=true&width=700&lines=🔴+Oracle+Java+Foundation+Certified;🔴+Oracle+APEX+Cloud+Developer+Professional;🔴+Oracle+AI+Vector+Search+Certified+Professional;🟢+Functions+%26+Memory+in+C+—+Pointers+%26+Arrays;🟢+Advanced+Topics+in+C+—+File+Handling" alt="Certifications" />
+### 🔴 Oracle Global Certifications
 
-<br/><br/>
-
-<!-- Oracle Certs -->
 <table>
 <tr>
 <td align="center" width="33%">
+<br/>
 <img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <br/><br/>
-<img src="https://img.shields.io/badge/☕_Java-Foundation-F80000?style=flat-square&logo=java&logoColor=white" />
-<br/>
+<img src="https://img.shields.io/badge/☕_Java-Foundation-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<br/><br/>
 <sub>🏛️ Oracle University</sub>
 <br/>
 <sub>✅ Global Certification</sub>
+<br/><br/>
 </td>
 <td align="center" width="33%">
+<br/>
 <img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <br/><br/>
 <img src="https://img.shields.io/badge/☁️_APEX-Cloud_Developer-F80000?style=flat-square&logo=oracle&logoColor=white" />
-<br/>
+<br/><br/>
 <sub>🏛️ Oracle University</sub>
 <br/>
 <sub>✅ Global Certification</sub>
+<br/><br/>
 </td>
 <td align="center" width="33%">
+<br/>
 <img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <br/><br/>
 <img src="https://img.shields.io/badge/🤖_AI_Vector-Search_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
-<br/>
+<br/><br/>
 <sub>🏛️ Oracle University</sub>
 <br/>
 <sub>✅ Global Certification</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
 
 <br/>
 
-<!-- C Certs -->
+### 🔵 Programming Certifications
+
 <table>
 <tr>
 <td align="center" width="50%">
+<br/>
 <img src="https://img.shields.io/badge/C_Programming-Specialization-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Functions_%26_Memory_in_C-Pointers_%26_Arrays-00599C?style=flat-square&logo=c&logoColor=white" />
-<br/>
+<br/><br/>
 <sub>✅ Online Specialization</sub>
+<br/><br/>
 </td>
 <td align="center" width="50%">
+<br/>
 <img src="https://img.shields.io/badge/C_Advanced-Specialization-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Advanced_Topics_in_C-File_Handling-00599C?style=flat-square&logo=c&logoColor=white" />
-<br/>
+<br/><br/>
 <sub>✅ Online Specialization</sub>
+<br/><br/>
 </td>
 </tr>
 </table>
 
 </div>
-
----
 
 ## 🚀 Projects
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=10B981&center=true&vCenter=true&width=700&lines=🍱+Smart+Food+Recommender+System;⌚+Wrist+Art+—+Full+Stack+E-Commerce;🍰+Pastry+Management+Web+App;📚+Borrow+Box+—+Book+Rental+Platform" alt="Projects" />
-
+<table>
+<tr>
+<td align="center" width="50%">
+<br/>
+<img src="https://img.shields.io/badge/🍱_Smart_Food-Recommender_System-FF6F00?style=for-the-badge" />
 <br/><br/>
-
-| | Project | Description | Tech Stack |
-|---|---|---|---|
-| 🍱 | **Smart Food Recommender** | Deep learning model for personalized diet recommendations with top 10 food suggestions | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) |
-| ⌚ | **Wrist Art — E-Commerce** | Online watch store with cart, product feed and responsive UI on MERN stack | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
-| 🍰 | **Pastry Management App** | Order management and customer tracking system for pastry business | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| 📚 | **Borrow Box — Book Rental** | Book rental platform with secure payments, return tracking and affordable rentals | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
+<p align="left">Deep learning model for personalized diet recommendations with <strong>top 10 food suggestions</strong> using Indian food nutrition dataset.</p>
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
+<br/><br/>
+</td>
+<td align="center" width="50%">
+<br/>
+<img src="https://img.shields.io/badge/⌚_Wrist_Art-Full_Stack_E--Commerce-7C3AED?style=for-the-badge" />
+<br/><br/>
+<p align="left">Online watch store with <strong>cart, product feed</strong> and responsive UI built on the MERN stack.</p>
+<br/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<br/>
+<img src="https://img.shields.io/badge/🍰_Pastry-Management_Web_App-F97316?style=for-the-badge" />
+<br/><br/>
+<p align="left">Order management and <strong>customer tracking system</strong> for a pastry business with responsive design.</p>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<br/><br/>
+</td>
+<td align="center" width="50%">
+<br/>
+<img src="https://img.shields.io/badge/📚_Borrow_Box-Book_Rental_Platform-10B981?style=for-the-badge" />
+<br/><br/>
+<p align="left">Book rental platform with <strong>secure payments, return tracking</strong> and affordable rental options.</p>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+<br/><br/>
+</td>
+</tr>
+</table>
 
 </div>
-
----
 
 ## ❤️ Support Me
 

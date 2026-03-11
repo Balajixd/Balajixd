@@ -74,51 +74,31 @@
 
 ---
 
-## 💻 About Me in Code
-```python
-class Developer:
-    name        = "Balaji B.R."
-    location    = "Erode, Tamil Nadu, India 🇮🇳"
-    education   = "MSc Software Systems @ Kongu Engineering College"
-    cgpa        = 7.21
+## 👨‍💻 About Me
 
-    role        = "AI-Driven Full Stack Developer"
+<div align="center">
 
-    skills = {
-        "languages"  : ["Python", "Java", "JavaScript", "C"],
-        "frontend"   : ["HTML5", "CSS3", "Bootstrap 5", "React"],
-        "backend"    : ["Node.js", "Express"],
-        "database"   : ["MongoDB", "MySQL"],
-        "ai_ml"      : ["TensorFlow", "Keras", "NLP", "Deep Learning"],
-        "tools"      : ["GitHub", "Google Colab", "Oracle APEX", "VS Code"]
-    }
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=600&lines=🎓+MSc+Software+Systems+%40+Kongu+EC;📍+Erode%2C+Tamil+Nadu%2C+India+🇮🇳;💡+CGPA%3A+7.21;🏅+3×+Oracle+Global+Certified;🥇+2×+First+Prize+Winner" alt="Typing" />
 
-    certifications = [
-        "Oracle Java Foundation ✅",
-        "Oracle APEX Cloud Developer ✅",
-        "Oracle AI Vector Search ✅",
-        "C Programming Specialization ✅"
-    ]
+<br/>
 
-    achievements = [
-        "🥇 First Prize — UI/UX @ Mark-US 2k25",
-        "🥇 First Prize — Photography Hunt @ KPR",
-        "🥈 Second Prize — Project Presentation",
-        "🥉 Third Prize — Code-a-thon @ KPR",
-        "⚡ Smart India Hackathon Participant"
-    ]
+| 🧑‍💻 | **Balaji B.R.** |
+|---|---|
+| 🎓 | MSc Software Systems, Kongu Engineering College |
+| 📍 | Erode, Tamil Nadu, India |
+| 📊 | CGPA: 7.21 |
+| 💼 | AI-Driven Full Stack Developer |
+| 🏅 | 3× Oracle Global Certified |
+| 🥇 | 2× First Prize Winner |
+| 🔭 | Building intelligent web apps |
+| 🤝 | Open to collaborations & internships |
+| 📧 | brbalaji456@gmail.com |
 
-    currently    = "Building AI-powered web apps 🚀"
-    open_to      = "Collaborations, Internships & Opportunities"
-    contact      = "brbalaji456@gmail.com"
+<br/>
 
-    def build(self, idea):
-        return AI(idea) + FullStack(idea) + "✨"
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=7C3AED&center=true&vCenter=true&width=600&lines=Python+%7C+TensorFlow+%7C+Keras+%7C+Deep+Learning;React+%7C+Node.js+%7C+Express+%7C+MongoDB;HTML5+%7C+CSS3+%7C+Bootstrap+5+%7C+JavaScript;Oracle+APEX+%7C+Google+Colab+%7C+GitHub" alt="Skills Typing" />
 
-me = Developer()
-print(f"Hello World! I'm {me.name} 👋")
-print(f"Currently: {me.currently}")
-```
+</div>
 
 ---
 
@@ -126,33 +106,59 @@ print(f"Currently: {me.currently}")
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🥇_First_Prize-UI/UX_Design-FFD700?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/📍_Mark--US_2k25-Kongu_Engineering_College-0d0d0d?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=FFD700&center=true&vCenter=true&width=700&lines=🥇+First+Prize+—+UI%2FUX+Design+%40+Mark-US+2k25;🥇+First+Prize+—+Photography+Hunt+%40+KPR+College;🥈+Second+Prize+—+Project+Presentation+%40+Kongu+EC;🥉+Third+Prize+—+Code-a-thon+%40+KPR+Engineering+College;⚡+Participated+—+One+Day+Hackathon+2025+%40+Kongu+EC;🌐+Participated+—+Smart+India+Hackathon+%40+Kongu+EC" alt="Achievements" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🥇_First_Prize-Photography_Hunt-FFD700?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/📍_KPR-Engineering_College-0d0d0d?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🥈_Second_Prize-Project_Presentation-C0C0C0?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/📍_Kongu-Engineering_College-0d0d0d?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🥉_Third_Prize-Code--a--thon-CD7F32?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/📍_KPR-Engineering_College-0d0d0d?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/⚡_Participant-One_Day_Hackathon_2025-00C4CC?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/📍_Kongu-Engineering_College-0d0d0d?style=for-the-badge" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🌐_Participant-Smart_India_Hackathon-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/📍_Kongu-Engineering_College-0d0d0d?style=for-the-badge" />
+<!-- Gold Awards -->
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🥇-FIRST_PRIZE-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+<br/>
+<img src="https://img.shields.io/badge/UI%2FUX_Design-Mark--US_2k25-orange?style=flat-square" />
+<br/>
+<sub>📍 Kongu Engineering College</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🥇-FIRST_PRIZE-FFD700?style=for-the-badge&labelColor=1a1a1a" />
+<br/>
+<img src="https://img.shields.io/badge/Photography_Hunt-KPR_College-orange?style=flat-square" />
+<br/>
+<sub>📍 KPR Engineering College</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🥈-SECOND_PRIZE-C0C0C0?style=for-the-badge&labelColor=1a1a1a" />
+<br/>
+<img src="https://img.shields.io/badge/Project_Presentation-Kongu_EC-silver?style=flat-square" />
+<br/>
+<sub>📍 Kongu Engineering College</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🥉-THIRD_PRIZE-CD7F32?style=for-the-badge&labelColor=1a1a1a" />
+<br/>
+<img src="https://img.shields.io/badge/Code--a--thon-KPR_College-brown?style=flat-square" />
+<br/>
+<sub>📍 KPR Engineering College</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⚡-PARTICIPANT-00C4CC?style=for-the-badge&labelColor=1a1a1a" />
+<br/>
+<img src="https://img.shields.io/badge/One_Day_Hackathon-2025-cyan?style=flat-square" />
+<br/>
+<sub>📍 Kongu Engineering College</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🌐-PARTICIPANT-6C63FF?style=for-the-badge&labelColor=1a1a1a" />
+<br/>
+<img src="https://img.shields.io/badge/Smart_India-Hackathon-purple?style=flat-square" />
+<br/>
+<sub>📍 Kongu Engineering College</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -162,23 +168,64 @@ print(f"Currently: {me.currently}")
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Oracle-Java_Foundation_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=F80000&center=true&vCenter=true&width=700&lines=🔴+Oracle+Java+Foundation+Certified;🔴+Oracle+APEX+Cloud+Developer+Professional;🔴+Oracle+AI+Vector+Search+Certified+Professional;🟢+Functions+%26+Memory+in+C+—+Pointers+%26+Arrays;🟢+Advanced+Topics+in+C+—+File+Handling" alt="Certifications" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Oracle-APEX_Cloud_Developer_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
+<!-- Oracle Certs -->
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <br/><br/>
-
-<img src="https://img.shields.io/badge/Oracle-AI_Vector_Search_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
+<img src="https://img.shields.io/badge/☕_Java-Foundation-F80000?style=flat-square&logo=java&logoColor=white" />
+<br/>
+<sub>🏛️ Oracle University</sub>
+<br/>
+<sub>✅ Global Certification</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <br/><br/>
-
-<img src="https://img.shields.io/badge/C_Programming-Functions_%26_Memory_in_C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
+<img src="https://img.shields.io/badge/☁️_APEX-Cloud_Developer-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<br/>
+<sub>🏛️ Oracle University</sub>
+<br/>
+<sub>✅ Global Certification</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <br/><br/>
+<img src="https://img.shields.io/badge/🤖_AI_Vector-Search_Professional-F80000?style=flat-square&logo=oracle&logoColor=white" />
+<br/>
+<sub>🏛️ Oracle University</sub>
+<br/>
+<sub>✅ Global Certification</sub>
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/C_Advanced-File_Handling_%26_Pointers-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<br/>
+
+<!-- C Certs -->
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/C_Programming-Specialization-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Functions_%26_Memory_in_C-Pointers_%26_Arrays-00599C?style=flat-square&logo=c&logoColor=white" />
+<br/>
+<sub>✅ Online Specialization</sub>
+</td>
+<td align="center" width="50%">
+<img src="https://img.shields.io/badge/C_Advanced-Specialization-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Advanced_Topics_in_C-File_Handling-00599C?style=flat-square&logo=c&logoColor=white" />
+<br/>
+<sub>✅ Online Specialization</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -188,51 +235,16 @@ print(f"Currently: {me.currently}")
 
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=600&color=10B981&center=true&vCenter=true&width=700&lines=🍱+Smart+Food+Recommender+System;⌚+Wrist+Art+—+Full+Stack+E-Commerce;🍰+Pastry+Management+Web+App;📚+Borrow+Box+—+Book+Rental+Platform" alt="Projects" />
+
+<br/><br/>
+
 | | Project | Description | Tech Stack |
 |---|---|---|---|
-| 🍱 | **Smart Food Recommender System** | Deep learning model for personalized diet recommendations with top 10 food suggestions using Indian food nutrition dataset | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) |
-| ⌚ | **Wrist Art — E-Commerce** | Online watch store with cart, product feed, and responsive UI built on MERN stack | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
-| 🍰 | **Pastry Management Web App** | Order management and customer tracking system for pastry business | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| 📚 | **Borrow Box — Book Rental** | Online book rental platform with secure payments, return tracking, and affordable rental options | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
-
-</div>
-
----
-
-## 👨‍💼 Leadership & Responsibilities
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓_Executive_Member-MSc_Computer_Technology--PG_@_Kongu_Engineering_College-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🌐_Executive_Member-Rotaract_Club-00C4CC?style=for-the-badge&labelColor=1a1a2e" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📢_Organizer-Paper_%26_Project_Presentation_(Mark--US_%26_MeScia_Events)-FFD700?style=for-the-badge&labelColor=1a1a2e" />
-
-</div>
-
----
-
-## 👨‍🎓 Education
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎓_MSc_Software_Systems-Kongu_Engineering_College,_Perundurai-6C63FF?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/CGPA-7.21-FFD700?style=for-the-badge&labelColor=1a1a2e" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📘_HSC-B.V.B_Matric_Hr._Sec._School,_Erode-00C4CC?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Score-59%25-C0C0C0?style=for-the-badge&labelColor=1a1a2e" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📗_SSLC-B.V.B_Matric_Hr._Sec._School,_Erode-10b981?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/Score-54%25-C0C0C0?style=for-the-badge&labelColor=1a1a2e" />
+| 🍱 | **Smart Food Recommender** | Deep learning model for personalized diet recommendations with top 10 food suggestions | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white) |
+| ⌚ | **Wrist Art — E-Commerce** | Online watch store with cart, product feed and responsive UI on MERN stack | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
+| 🍰 | **Pastry Management App** | Order management and customer tracking system for pastry business | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| 📚 | **Borrow Box — Book Rental** | Book rental platform with secure payments, return tracking and affordable rentals | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
 
 </div>
 

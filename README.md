@@ -148,11 +148,7 @@
 
 ---
 
-## 👨‍💼 Leadership & Responsibilities
 
-- 🎓 **Executive Member** — MSc Computer Technology-PG, Kongu Engineering College
-- 🌐 **Executive Member** — Rotaract Club
-- 📢 **Paper & Project Presentation Organizer** — Mark-US & MeScia Events
 
 ---
 
